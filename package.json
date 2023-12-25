@@ -1,0 +1,9 @@
+{
+  "name": "geolocatorconsole",
+  "version": "1.0.0",
+  "description": "read geolocation data for ip address",
+  "dependencies": {
+    "geoip-lite": "^1.4.9",
+    "ip": "^1.1.8"
+  }
+}
